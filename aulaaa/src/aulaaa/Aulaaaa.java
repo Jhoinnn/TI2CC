@@ -2,7 +2,7 @@ package aulaaa;
 //import java.io.RandomAccessFile;//
 public class Aulaaaa {
 //Metodo de leitura pedido no enunciado da quest�o//
-	//teste integraçao 1//
+	//teste integraçao 2//
 	
 	public static int somando(int numA,int numB)//Método com retorno em int para soma//
 	   {
